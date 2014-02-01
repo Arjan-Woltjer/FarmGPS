@@ -1,0 +1,54 @@
+###################################
+# Syntax Coloring Map for FarmGPS
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+FarmGPS	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+decode	KEYWORD2
+distance_between	KEYWORD2
+stats	KEYWORD2
+get_datetime	KEYWORD2
+get_datetime_details	KEYWORD2
+get_position	KEYWORD2
+get_altitude	KEYWORD2
+get_quality	KEYWORD2
+get_course	KEYWORD2
+get_speed	KEYWORD2
+get_xte	KEYWORD2
+get_GGA_string	KEYWORD2
+get_VTG_string	KEYWORD2
+get_XTE_string	KEYWORD2
+get_speed_mph	KEYWORD2
+get_speed_ms	KEYWORD2
+get_speed_kmh	KEYWORD2
+get_xte_cm	KEYWORD2
+get_GGA_fix_age	KEYWORD2
+get_VTG_fix_age	KEYWORD2
+get_XTE_fix_age	KEYWORD2
+got_new_GGA_data	KEYWORD2
+got_new_VTG_data	KEYWORD2
+got_new_XTE_data	KEYWORD2
+library_version	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
+GPS_VERSION	LITERAL1
+GPS_MPH_PER_KNOT	LITERAL1
+GPS_MS_PER_KNOT	LITERAL1
+GPS_KMH_PER_KNOT	LITERAL1
+GPGGA_TERM	LITERAL1
+GPVTG_TERM	LITERAL1
+GPXTE_TERM	LITERAL1
+GPS_INVALID_FLOAT	LITERAL1
+GPS_INVALID_LONG	LITERAL1
+GPS_NO_STATS	LITERAL1
